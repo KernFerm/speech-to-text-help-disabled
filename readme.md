@@ -88,7 +88,10 @@ The `config.py` file includes the following settings:
 - **Incorrect Transcription**: Speak clearly and check your internet connection since the application relies on Google's online speech recognition service.
 
 ## Need Help??
-- Join the Discord [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+# Join the discord if you need help 
+
+[https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
+
 - Ping `Bubbles`
 
 ## Contributing 🤝
@@ -102,3 +105,4 @@ Contributions are welcome! Please open issues or submit pull requests if you'd l
 ---
 
 Enjoy converting your voice to text with this awesome application! If you have any questions or feedback, feel free to reach out. Happy coding! 😃
+
